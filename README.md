@@ -1,1 +1,3 @@
-# PHY-307-Term-Paper
+# Review Paper : Role of Modern Optical Techniques in Gravitational Wave Detection https://arxiv.org/abs/2012.01927
+
+Gravitational waves were first proposed by Henri Poincaré in 1905 and were subsequently predicted by Albert Einstein in his General Theory of Relativity. In 2015, first Gravitational Waves signals were detected by LIGO of two black holes merging about 1.3 billion light-years away. The discovery opened a new window of astronomy. Currently, four laser interferometers are operating around the world, two American detectors which are located in Hanford and Livingston, one Italian detector (VIRGO) located at Pisa and an underground Japanese detector KAGRA. This paper describes the modern optical techniques that are being used and future planned techniques for gravitational wave detection.
